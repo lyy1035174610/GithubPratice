@@ -1,2 +1,2 @@
 # GithubPratice
-用与熟悉Github的项目
+用于熟悉Github使用的项目
